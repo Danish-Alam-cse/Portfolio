@@ -10,8 +10,8 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: '',
-  subtitle: '',
+  name: 'Md Danish Alam',
+  subtitle: 'Full Stack Web Developer',
   cta: '',
 };
 
@@ -26,9 +26,10 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
+ 
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'ecom.png',
     title: '',
     info: '',
     info2: '',
@@ -37,53 +38,46 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'biz.jpg',
     title: '',
     info: '',
     info2: '',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
+  
 ];
 
 // CONTACT DATA
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'danishalam002@gmail.com',
 };
 
 // FOOTER DATA
 export const footerData = {
+
   networks: [
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
+      url: 'https://twitter.com/Muhamma55387613',
     },
     {
       id: nanoid(),
       name: 'codepen',
-      url: '',
+      url: 'https://codepen.io/devDanish',
     },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/md-danish-alam-7a432a1b4/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/Danish-Alam-cse',
     },
   ],
 };
