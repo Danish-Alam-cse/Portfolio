@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://novoresume.com/editor/resume/6fc18540-71cd-11eb-99b9-5d37fb8b187f', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
